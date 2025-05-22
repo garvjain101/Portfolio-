@@ -1,7 +1,6 @@
-<!doctype html>
+
 <html lang="en">
   <head>
-    <title> experience </title>
   </head>
   <body>
     <h1> Experience </h1>
