@@ -10,7 +10,7 @@
 <body>
   <p> Portfolio </p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPYiaXUkC3BMerDX7RfbKlBCqq5XIlEt3mDdBxVz25EE3f0_uLsA2Y8M&s=10" alt="book" height=50 />
-  <a href="education.html"> Education page </a>
+  <a href="education.md"> Education page </a>
   <hr />
   <br />
   <br />
