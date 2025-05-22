@@ -1,7 +1,6 @@
 <doctype html>
   <html lang="en">
     <head>
-      <title> education </title>
     </head>
     <body>
       <h1> Education </h1>
