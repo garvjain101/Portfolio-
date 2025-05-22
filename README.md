@@ -21,7 +21,7 @@
   <br />
   <br />
   <img src="https://png.pngtree.com/png-clipart/20230504/original/pngtree-project-management-line-icon-png-image_9137897.png" alt="project" height=50 />
-  <a href="project.html">  Project page </a>
+  <a href="project.md">  Project page </a>
   <hr />
 </body>
 
