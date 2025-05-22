@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title> html </title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -24,7 +23,6 @@
   <img src="https://png.pngtree.com/png-clipart/20230504/original/pngtree-project-management-line-icon-png-image_9137897.png" alt="project" height=50 />
   <a href="project.html">  Project page </a>
   <hr />
-  <script src="script.js"></script>
 </body>
 
 </html>
